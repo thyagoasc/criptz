@@ -12,6 +12,7 @@ class AppWidget extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
+        brightness: Brightness.dark,
       ),
       home: const CoinPage(),
     );
