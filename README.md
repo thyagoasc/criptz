@@ -1,4 +1,4 @@
-# criptz
+# CriptZ
 
 A new Flutter project.
 
